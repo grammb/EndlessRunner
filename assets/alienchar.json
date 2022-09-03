@@ -1,0 +1,161 @@
+{
+    "frames": [
+        {
+            "filename": "idle_0001",
+            "frame": {
+                "x": 69,
+                "y": 155,
+                "w": 66,
+                "h": 82
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 82
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 82
+            }
+        },
+        {
+            "filename": "hurt_0001",
+            "frame": {
+                "x": 136,
+                "y": 155,
+                "w": 69,
+                "h": 81
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 69,
+                "h": 81
+            },
+            "sourceSize": {
+                "w": 69,
+                "h": 81
+            }
+        },
+        {
+            "filename": "jump_0001",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 67,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 67,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 67,
+                "h": 83
+            }
+        },
+        {
+            "filename": "walk_0001",
+            "frame": {
+                "x": 0,
+                "y": 155,
+                "w": 68,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 68,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 68,
+                "h": 83
+            }
+        },
+        {
+            "filename": "walk_0002",
+            "frame": {
+                "x": 135,
+                "y": 0,
+                "w": 70,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 86
+            }
+        },
+        {
+            "filename": "base_0001",
+            "frame": {
+                "x": 68,
+                "y": 0,
+                "w": 66,
+                "h": 82
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 82
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 82
+            }
+        },
+        {
+            "filename": "stoneTile",
+            "frame": {
+                "x": 0,
+                "y": 84,
+                "w": 70,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 70
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "spritesheet.png",
+        "size": {
+            "w": 205,
+            "h": 238
+        },
+        "scale": 1
+    }
+}

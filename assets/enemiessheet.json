@@ -1,0 +1,194 @@
+{
+    "frames": {
+        "bat_0001": {
+            "frame": {
+                "x": 73,
+                "y": 0,
+                "w": 70,
+                "h": 47
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 70,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 70,
+                "h": 47
+            }
+        },
+        "bat_0002": {
+            "frame": {
+                "x": 0,
+                "y": 192,
+                "w": 88,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 37
+            }
+        },
+        "bee_0001": {
+            "frame": {
+                "x": 78,
+                "y": 138,
+                "w": 56,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 48
+            }
+        },
+        "bee_0002": {
+            "frame": {
+                "x": 73,
+                "y": 48,
+                "w": 61,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 61,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 61,
+                "h": 42
+            }
+        },
+        "spider_walk_0001": {
+            "frame": {
+                "x": 0,
+                "y": 92,
+                "w": 71,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 71,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 71,
+                "h": 45
+            }
+        },
+        "spider_walk_0002": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 51
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 51
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 51
+            }
+        },
+        "spider_walk_0003": {
+            "frame": {
+                "x": 0,
+                "y": 138,
+                "w": 77,
+                "h": 53
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 77,
+                "h": 53
+            },
+            "sourceSize": {
+                "w": 77,
+                "h": 53
+            }
+        },
+        "fly_0001": {
+            "frame": {
+                "x": 73,
+                "y": 91,
+                "w": 57,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 57,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 57,
+                "h": 45
+            }
+        },
+        "fly_0002": {
+            "frame": {
+                "x": 0,
+                "y": 52,
+                "w": 65,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 65,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 65,
+                "h": 39
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "enemies.png",
+        "size": {
+            "w": 143,
+            "h": 229
+        },
+        "scale": 1
+    }
+}
